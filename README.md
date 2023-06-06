@@ -1,2 +1,1 @@
-# awesome-javascript
-A journey with Java Script
+# Awesome JavaScript Learning <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
